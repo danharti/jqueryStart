@@ -1,0 +1,20 @@
+# jqueryStart
+
+HTML - content
+CSS - layout and style
+Javascript in the form of Jquery - behavior and interactivity 
+
+
+CSS - presentational layer
+- maintainability
+- accessibility
+- speed
+- SEO
+- more
+
+Javascript - interactive layer
+Javascript software like javascript library (means a collection of javascript code) eg Jquery
+
+Jquery
+-unobtrusive Javascript (means putting the user first and making your website function regardless of the user's browser, device or connection.)
+
