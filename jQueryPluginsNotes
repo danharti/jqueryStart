@@ -1,0 +1,45 @@
+# jQuery Plugins
+
+jQuery simplifies common javascript tasks:
+1. Selecting and manipulating page elements
+2. Sending and receiving data using AJAX
+3. Adding engaging visual effects to a web page
+
+example:
+1. jCalculator - http://codepen.io/mariusbalaj/pen/bGqhI
+2. jQuery Adaptive Model - http://www.thepetedesign.com/demos/adaptive-modal_demo.html
+3. jQuery ListNav - http://ericsteinborn.com/jquery-listnav/
+4. video background (VIDE) - http://vodkabears.github.io/vide/
+5. lightbox - http://lokeshdhakar.com/projects/lightbox2/
+6. jQuery UI - https://jqueryui.com/
+7. Animsition - http://git.blivesta.com/animsition/
+
+How to find the best plugins:
+http://www.sitepoint.com/jquery-popular-plugins-list/
+http://www.unheap.com/
+
+1. Does something you need
+2. Good documentation
+3. Actively developed
+4. Responsive friendly
+5. Mobile friendly
+
+Plugin includes:
+1. JS File - required
+2. CSS File
+3. Images
+
+Steps include in your project:
+1. Attach Files
+    1.1 Attach the CSS File (before your site's CSS file or files) (so you can overwrite the plugins using your CSS File)
+    1.2 Attach the jQuery - use the jQuery CDN
+    1.3 Attach the plugin JS File - after the jQuery CDN line
+2. Structure your HTML (sometimes adding a classname or id)
+3. Add our programming
+    3.1 Add your own JS
+    3.2 Select an element on the page using jQuery
+    3.3 Call the plugin function
+
+
+
+
